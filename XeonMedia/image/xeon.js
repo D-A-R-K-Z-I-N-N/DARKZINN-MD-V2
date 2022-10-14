@@ -1,3 +1,3 @@
 {
-	"name": "Darmzinn-md Multi Device "
+	"name": "Darkzinn-md Multi Device "
 }
