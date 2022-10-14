@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝘿𝘼𝙍𝙆𝙕𝙄𝙉𝙉-𝙈𝘿-𝙑2ꫂ<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/Ni3Ghy3.mp4" alt="animated" width="540" height="283" />
+<img src="https://i.imgur.com/aqoNMyg.jpeg" alt="animated" width="540" height="283" />
 </p>
 
 <p align="center">
